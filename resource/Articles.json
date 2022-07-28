@@ -1,0 +1,2122 @@
+[
+	{
+		"id": 0,
+		"title": "Alexsander Kothe",
+		"link": "Alexsander_Kothe",
+		"difficulty": "Easy",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 1,
+		"title": "Arthur Cervero",
+		"link": "Arthur_Cervero",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Floresta", "Desconjuração", "Calamidade", "Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 2,
+		"title": "Antônio Pontevedra",
+		"link": "Antônio_Pontevedra",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 3,
+		"title": "Beatrice Portinari",
+		"link": "Beatrice_Portinari",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 4,
+		"title": "Carina Leone",
+		"link": "Carina_Leone",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 5,
+		"title": "Cristopher Cohen",
+		"link": "Cristopher_Cohen",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 6,
+		"title": "Daniel Hartmann",
+		"link": "Daniel_Hartmann",
+		"difficulty": "Easy",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 7,
+		"title": "Dante",
+		"link": "Dante",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 8,
+		"title": "Elizabeth Webber",
+		"link": "Elizabeth_Webber",
+		"difficulty": "Easy",
+		"campanha": ["A Ordem Paranormal", "O Segredo na Floresta", "Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 9,
+		"title": "Erin Parker",
+		"link": "Erin_Parker",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 10,
+		"title": "Fernando Carvalho",
+		"link": "Fernando_Carvalho",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 11,
+		"title": "Joui Jouki",
+		"link": "Joui_Jouki",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Floresta", "Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 12,
+		"title": "Cesar Oliveira Cohen",
+		"link": "Cesar_Oliveira_Cohen",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Floresta", "Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 13,
+		"title": "Luciano Carvalho",
+		"link": "Luciano_Carvalho",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 14,
+		"title": "Mia",
+		"link": "Mia",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade", "Enigma do Medo"],
+		"type": "Characters"
+	},
+	{
+		"id": 15,
+		"title": "Rubens Naluti",
+		"link": "Rubens_Naluti",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 16,
+		"title": "Thiago Fritz",
+		"link": "Thiago_Fritz",
+		"difficulty": "Easy",
+		"campanha": ["A Ordem Paranormal", "O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 17,
+		"title": "Artemis Deordelin Rodrigues",
+		"link": "Artemis_Deordelin_Rodrigues",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 18,
+		"title": "Boris Lukic",
+		"link": "Boris_Lukic",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 19,
+		"title": "Damir Lukic",
+		"link": "Damir_Lukic",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 20,
+		"title": "Gal",
+		"link": "Gal",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 21,
+		"title": "Theodore Bagwell",
+		"link": "Theodore_Bagwell",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 22,
+		"title": "Amelie Florence",
+		"link": "Amelie_Florence",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 23,
+		"title": "Bárbara Lima",
+		"link": "Bárbara_Lima",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 24,
+		"title": "Milo Castello",
+		"link": "Milo_Castello",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 25,
+		"title": "Olivier Florence",
+		"link": "Olivier_Florence",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 26,
+		"title": "Wanderley Nascimento de Jesus Maria",
+		"link": "Wanderley_Nascimento_de_Jesus_Maria",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 27,
+		"title": "O Anfitrião",
+		"link": "O_Anfitrião",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 28,
+		"title": "O Diabo",
+		"link": "O_Diabo",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 29,
+		"title": "A Magistrada",
+		"link": "A_Magistrada",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 30,
+		"title": "Amalia",
+		"link": "Amalia",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 31,
+		"title": "Cascadia",
+		"link": "Cascadia",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 32,
+		"title": "Celestine",
+		"link": "Celestine",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 33,
+		"title": "Cornelius",
+		"link": "Cornelius",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 34,
+		"title": "Faustus",
+		"link": "Faustus",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 35,
+		"title": "Gaius",
+		"link": "Gaius",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 36,
+		"title": "Karise",
+		"link": "Karise",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 37,
+		"title": "Marcellus",
+		"link": "Marcellus",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 38,
+		"title": "Marius",
+		"link": "Marius",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 39,
+		"title": "Nero",
+		"link": "Nero",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 40,
+		"title": "Remus",
+		"link": "Remus",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 41,
+		"title": "Veritus",
+		"link": "Veritus",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 42,
+		"title": "Aaron",
+		"link": "Aaron",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 43,
+		"title": "Agatha Volkomenn",
+		"link": "Agatha_Volkomenn",
+		"difficulty": "Easy",
+		"campanha": ["A Ordem Paranormal", "O Segredo na Floresta", "Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 44,
+		"title": "Aniela Ukryty",
+		"link": "Aniela_Ukryty",
+		"difficulty": "Hard",
+		"campanha": ["Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 45,
+		"title": "Arnaldo Fritz",
+		"link": "Arnaldo_Fritz",
+		"difficulty": "Easy",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 46,
+		"title": "Bruna Sampaio",
+		"link": "Bruna_Sampaio",
+		"difficulty": "Hard",
+		"campanha": ["Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 47,
+		"title": "Caio Leal",
+		"link": "Caio_Leal",
+		"difficulty": "Hard",
+		"campanha": ["Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 48,
+		"title": "Chizue Akechi",
+		"link": "Chizue_Akechi",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta", "Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 49,
+		"title": "Francisca Parker",
+		"link": "Francisca_Parker",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 50,
+		"title": "Gustavo Dohmer",
+		"link": "Gustavo_Dohmer",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 51,
+		"title": "Ivete Beicur",
+		"link": "Ivete_Beicur",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Floresta", "Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 52,
+		"title": "Jaime Orthuga",
+		"link": "Jaime_Orthuga",
+		"difficulty": "Hard",
+		"campanha": ["Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 53,
+		"title": "Johnny Tabasco",
+		"link": "Johnny_Tabasco",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 54,
+		"title": "Layla Silva",
+		"link": "Layla_Silva",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 55,
+		"title": "Leandro Weiss",
+		"link": "Leandro_Weiss",
+		"difficulty": "Hard",
+		"campanha": ["Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 56,
+		"title": "Marcela Geleerd",
+		"link": "Marcela_Geleerd",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 57,
+		"title": "Mauro Nunes",
+		"link": "Mauro_Nunes",
+		"difficulty": "Hard",
+		"campanha": ["Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 58,
+		"title": "Maya Shizuri",
+		"link": "Maya_Shizuri",
+		"difficulty": "Hard",
+		"campanha": ["Os Espinhos da Aurora Escarlate"],
+		"type": "Characters"
+	},
+	{
+		"id": 59,
+		"title": "Paulo Machado",
+		"link": "Paulo_Machado",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 60,
+		"title": "Renan Geleerd",
+		"link": "Renan_Geleerd",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 61,
+		"title": "Senhor Veríssimo",
+		"link": "Senhor_Veríssimo",
+		"difficulty": "Easy",
+		"campanha": ["A Ordem Paranormal", "O Segredo na Floresta", "Desconjuração", "Calamidade", "Os Espinhos da Aurora Escarlate", "Enigma do Medo"],
+		"type": "Characters"
+	},
+	{
+		"id": 62,
+		"title": "Tristan Monteiro",
+		"link": "Tristan_Monteiro",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 63,
+		"title": "Walter",
+		"link": "Walter",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 64,
+		"title": "Kurt Hemmis",
+		"link": "Kurt_Hemmis",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 65,
+		"title": "Leandro Hans",
+		"link": "Leandro_Hans",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 66,
+		"title": "Marcos Front",
+		"link": "Marcos_Front",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 67,
+		"title": "Roberto Lutrijo",
+		"link": "Roberto_Lutrijo",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 68,
+		"title": "Letícia Mantra",
+		"link": "Letícia_Mantra",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 69,
+		"title": "Samuel Norte",
+		"link": "Samuel_Norte",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 70,
+		"title": "Jiro Yukami",
+		"link": "Jiro_Yukami",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 71,
+		"title": "Naomi Akechi",
+		"link": "Naomi_Akechi",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 72,
+		"title": "Olivia Lefleur",
+		"link": "Olivia_Lefleur",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 73,
+		"title": "Alexia Grifo",
+		"link": "Alexia_Grifo",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 74,
+		"title": "Clarissa Leão",
+		"link": "Clarissa_Leão",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 75,
+		"title": "Samantha Hale",
+		"link": "Samantha_Hale",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 76,
+		"title": "Kenan Thomas",
+		"link": "Kenan_Thomas",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 77,
+		"title": "Mariana Larona",
+		"link": "Mariana_Larona",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 78,
+		"title": "Miguel Cariad",
+		"link": "Miguel_Cariad",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 79,
+		"title": "Alfredo Leone",
+		"link": "Alfredo_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 80,
+		"title": "Alonzo Leone",
+		"link": "Alonzo_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 81,
+		"title": "Ângela Leone",
+		"link": "Ângela_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 82,
+		"title": "Antonella Leone",
+		"link": "Antonella_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 83,
+		"title": "Brando Leone",
+		"link": "Brando_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 84,
+		"title": "Carla Leone",
+		"link": "Carla_Leone",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 85,
+		"title": "Chiara Leone",
+		"link": "Chiara_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 86,
+		"title": "Dario Leone",
+		"link": "Dario_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 86,
+		"title": "Enzo Leone",
+		"link": "Enzo_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 88,
+		"title": "Fabrizio Leone",
+		"link": "Fabrizio_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 89,
+		"title": "Giuseppe Leone",
+		"link": "Giuseppe_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 90,
+		"title": "Lorenzo Leone",
+		"link": "Lorenzo_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 91,
+		"title": "Marco Leone",
+		"link": "Marco_Leone",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 92,
+		"title": "Patrizia Leone",
+		"link": "Patrizia_Leone",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 93,
+		"title": "Roberta Leone",
+		"link": "Roberta_Leone",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 94,
+		"title": "Arnold Strolley",
+		"link": "Arnold_Strolley",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 95,
+		"title": "Chloe Grey",
+		"link": "Chloe_Grey",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 96,
+		"title": "Jason Bloom",
+		"link": "Jason_Bloom",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 97,
+		"title": "Karen Brown",
+		"link": "Karen_Brown",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 98,
+		"title": "Miguel Hernandez",
+		"link": "Miguel_Hernandez",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 99,
+		"title": "Roy Stevens",
+		"link": "Roy_Stevens",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 100,
+		"title": "Ryder Staten",
+		"link": "Ryder_Staten",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 101,
+		"title": "Stella Green",
+		"link": "Stella_Green",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 102,
+		"title": "Troy Walker",
+		"link": "Troy_Walker",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 103,
+		"title": "Amaury Baptiste",
+		"link": "Amaury_Baptiste",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 104,
+		"title": "Bernadette Leroy",
+		"link": "Bernadette_Leroy",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 105,
+		"title": "Cartier Dubois",
+		"link": "Cartier_Dubois",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 106,
+		"title": "Delano Martin",
+		"link": "Delano_Martin",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 107,
+		"title": "Désirée Menet",
+		"link": "Désirée_Menet",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 108,
+		"title": "Dominic Sy Pierre",
+		"link": "Dominic_Sy_Pierre",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 109,
+		"title": "Emmanuelle Adrien",
+		"link": "Emmanuelle_Adrien",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 110,
+		"title": "Lorraine Orleans",
+		"link": "Lorraine_Orleans",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 111,
+		"title": "Ludovic Toussaint",
+		"link": "Ludovic_Toussaint",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 112,
+		"title": "Marc Menet",
+		"link": "Marc_Menet",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 113,
+		"title": "Margot Renaud",
+		"link": "Margot_Renaud",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 114,
+		"title": "Maxime Auclair",
+		"link": "Maxime_Auclair",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 115,
+		"title": "Monique Lavigne",
+		"link": "Monique_Lavigne",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 116,
+		"title": "Noelle Aries",
+		"link": "Noelle_Aries",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 117,
+		"title": "Oriel Renaud",
+		"link": "Oriel_Renaud",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 118,
+		"title": "Stephanie Rosseau",
+		"link": "Stephanie_Rosseau",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 119,
+		"title": "Yuki",
+		"link": "Yuki",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 120,
+		"title": "Yves Moreau",
+		"link": "Yves_Moreau",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 121,
+		"title": "Agarim",
+		"link": "Agarim",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 122,
+		"title": "Alef Freneza",
+		"link": "Alef_Freneza",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 123,
+		"title": "Anthony Scelto",
+		"link": "Anthony_Scelto",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 124,
+		"title": "Blaire",
+		"link": "Blaire",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 125,
+		"title": "Bruno",
+		"link": "Bruno",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 126,
+		"title": "Caleb Onell",
+		"link": "Caleb_Onell",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 127,
+		"title": "Clara",
+		"link": "Clara",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 128,
+		"title": "Dagan",
+		"link": "Dagan",
+		"difficulty": "Medium",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 129,
+		"title": "Erika",
+		"link": "Erika",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 130,
+		"title": "Gregory",
+		"link": "Gregory",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 131,
+		"title": "Henri",
+		"link": "Henri",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 132,
+		"title": "Ike",
+		"link": "Ike",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 133,
+		"title": "José",
+		"link": "José",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 134,
+		"title": "Jovan Savik",
+		"link": "Jovan_Savik",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 135,
+		"title": "Jushur",
+		"link": "Jushur",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 136,
+		"title": "Kian",
+		"link": "Kian",
+		"difficulty": "Easy",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 137,
+		"title": "Kish",
+		"link": "Kish",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 138,
+		"title": "Leonardo Gomes",
+		"link": "Leonardo_Gomes",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 139,
+		"title": "Mandraque Ângelo",
+		"link": "Mandraque_Ângelo",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 140,
+		"title": "Mashda",
+		"link": "Mashda",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 141,
+		"title": "Nergal",
+		"link": "Nergal",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 142,
+		"title": "Nubi",
+		"link": "Nubi",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 143,
+		"title": "Rana",
+		"link": "Rana",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 144,
+		"title": "Vanessa Ângelo",
+		"link": "Vanessa_Ângelo",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 145,
+		"title": "Virgílio Scelto",
+		"link": "Virgílio_Scelto",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 146,
+		"title": "Álvaro Augusto",
+		"link": "Álvaro_Augusto",
+		"difficulty": "Medium",
+		"campanha": ["A Ordem Paranormal", "Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 147,
+		"title": "Matias Dennis",
+		"link": "Matias_Dennis",
+		"difficulty": "Hard",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 148,
+		"title": "Olavo Costa",
+		"link": "Olavo_Costa",
+		"difficulty": "Hard",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 149,
+		"title": "Jorge",
+		"link": "Jorge",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 150,
+		"title": "Josivaldo",
+		"link": "Josivaldo",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 151,
+		"title": "Osvaldo",
+		"link": "Osvaldo",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 152,
+		"title": "Sidney Souza",
+		"link": "Sidney_Souza",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 153,
+		"title": "Eric Jour",
+		"link": "Eric_Jour",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 154,
+		"title": "Eva van Gloss",
+		"link": "Eva_van_Gloss",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 155,
+		"title": "Mick Vultz",
+		"link": "Mick_Vultz",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 156,
+		"title": "Paula Verdante",
+		"link": "Paula_Verdante",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 157,
+		"title": "Valter Luz",
+		"link": "Valter_Luz",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 158,
+		"title": "Diretor da Produção",
+		"link": "Diretor_da_Produção",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 159,
+		"title": "Produção Rosa",
+		"link": "Produção_Rosa",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 160,
+		"title": "Produção Roxo",
+		"link": "Produção_Roxo",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 161,
+		"title": "Produção Verde",
+		"link": "Produção_Verde",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 162,
+		"title": "Produção Vermelho",
+		"link": "Produção_Vermelho",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 163,
+		"title": "Produção Violeta",
+		"link": "Produção_Violeta",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 164,
+		"title": "Pasquale",
+		"link": "Pasquale",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 165,
+		"title": "Ricardo",
+		"link": "Ricardo",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 166,
+		"title": "Salvatore",
+		"link": "Salvatore",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 167,
+		"title": "Tereza",
+		"link": "Tereza",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 168,
+		"title": "Verônica",
+		"link": "Verônica",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 169,
+		"title": "Vicenzo",
+		"link": "Vicenzo",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 170,
+		"title": "Vinicio Ludos",
+		"link": "Vinicio_Ludos",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 171,
+		"title": "Ingrid Volkomenn",
+		"link": "Ingrid_Volkomenn",
+		"difficulty": "Hard",
+		"campanha": ["A Ordem Paranormal", "O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 172,
+		"title": "Jasmin Cristal",
+		"link": "Jasmin_Cristal",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 173,
+		"title": "Nathaniel",
+		"link": "Nathaniel",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 174,
+		"title": "Ocultista desconhecido",
+		"link": "Ocultista_desconhecido",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 175,
+		"title": "Brúlio Cervero",
+		"link": "Brúlio_Cervero",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 176,
+		"title": "Gregório Igorovich",
+		"link": "Gregório_Igorovich",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 177,
+		"title": "Ivan",
+		"link": "Ivan",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 178,
+		"title": "Marcelo",
+		"link": "Marcelo",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 179,
+		"title": "Murilo",
+		"link": "Murilo",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 180,
+		"title": "Rodolfo",
+		"link": "Rodolfo",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 181,
+		"title": "Alice Montes",
+		"link": "Alice_Montes",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 182,
+		"title": "Ana Vitória Batista",
+		"link": "Ana_Vitória_Batista",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 183,
+		"title": "Bernardo",
+		"link": "Bernardo",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 184,
+		"title": "Camila_Montes",
+		"link": "Camila Montes",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 185,
+		"title": "Carol",
+		"link": "Carol",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 186,
+		"title": "Cibele",
+		"link": "Cibele",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 187,
+		"title": "Dono do Carpazinha Impressora",
+		"link": "Dono_do_Carpazinha_Impressora",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 188,
+		"title": "Geraldo",
+		"link": "Geraldo",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 189,
+		"title": "Getúlio",
+		"link": "Getúlio",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 190,
+		"title": "Jéssica",
+		"link": "Jéssica",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 191,
+		"title": "Letício",
+		"link": "Letício",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 192,
+		"title": "Luciene Costa",
+		"link": "Luciene_Costa",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 193,
+		"title": "Lurdete_Batista",
+		"link": "Lurdete Batista",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 194,
+		"title": "Madalena",
+		"link": "Madalena",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 195,
+		"title": "Murilo",
+		"link": "Murilo",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 196,
+		"title": "Rafael Montes",
+		"link": "Rafael_Montes",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 197,
+		"title": "Victor Rott",
+		"link": "Victor_Rott",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 198,
+		"title": "Virgulino Batista",
+		"link": "Virgulino_Batista",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 199,
+		"title": "Dr. Verruckt",
+		"link": "Dr._Verruckt",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 200,
+		"title": "A Artista",
+		"link": "A_Artista",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 201,
+		"title": "A Fazendeira",
+		"link": "A_Fazendeira",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 202,
+		"title": "A Ferreira",
+		"link": "A_Ferreira",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 203,
+		"title": "A Garçonete",
+		"link": "A_Garçonete",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 204,
+		"title": "Antigo Hoteleiro",
+		"link": "Antigo_Hoteleiro",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 205,
+		"title": "Antigo Porteiro",
+		"link": "Antigo_Porteiro",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 206,
+		"title": "O Ajudante",
+		"link": "O_Ajudante",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 207,
+		"title": "O Cozinheiro",
+		"link": "O_Cozinheiro",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 208,
+		"title": "O Doutor",
+		"link": "O_Doutor",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 209,
+		"title": "O Ferreiro",
+		"link": "O_Ferreiro",
+		"difficulty": "Easy",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 210,
+		"title": "O Guarda",
+		"link": "O_Guarda",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 211,
+		"title": "O Hoteleiro",
+		"link": "O_Hoteleiro",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 212,
+		"title": "O Jardineiro",
+		"link": "O_Jardineiro",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 213,
+		"title": "O Mineiro",
+		"link": "O_Mineiro",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 214,
+		"title": "O Minerador",
+		"link": "O_Minerador",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 215,
+		"title": "O Porteiro",
+		"link": "O_Porteiro",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 216,
+		"title": "O Taverneiro",
+		"link": "O_Taverneiro",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 217,
+		"title": "O Tecelão",
+		"link": "O_Tecelão",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Floresta"],
+		"type": "Characters"
+	},
+	{
+		"id": 218,
+		"title": "Gonzales Medina",
+		"link": "Gonzales_Medina",
+		"difficulty": "Medium",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 219,
+		"title": "Gabriel Opspor",
+		"link": "Gabriel_Opspor",
+		"difficulty": "Medium",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 220,
+		"title": "Matheus Geleerd",
+		"link": "Matheus_Geleerd",
+		"difficulty": "Medium",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 221,
+		"title": "Denis Batista",
+		"link": "Denis_Batista",
+		"difficulty": "Hard",
+		"campanha": ["Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 222,
+		"title": "Jeremias",
+		"link": "Jeremias",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 223,
+		"title": "Lucille Webber",
+		"link": "Lucille_Webber",
+		"difficulty": "Hard",
+		"campanha": ["A Ordem Paranormal"],
+		"type": "Characters"
+	},
+	{
+		"id": 224,
+		"title": "Nina",
+		"link": "Nina",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 225,
+		"title": "Thelma",
+		"link": "Thelma",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 226,
+		"title": "Ronaldo Crosti",
+		"link": "Ronaldo_Crosti",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 227,
+		"title": "Cassiano Menta",
+		"link": "Cassiano_Menta",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 228,
+		"title": "Eduarda Flom",
+		"link": "Eduarda_Flom",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 229,
+		"title": "Fátima Mare",
+		"link": "Fátima_Mare",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 230,
+		"title": "Graça Scelto",
+		"link": "Graça_Scelto",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 231,
+		"title": "Heitor Mare",
+		"link": "Heitor_Mare",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 232,
+		"title": "Hugo Longo",
+		"link": "Hugo_Longo",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 233,
+		"title": "Janaina Flom",
+		"link": "Janaina_Flom",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 234,
+		"title": "Nestor Scelto",
+		"link": "Nestor_Scelto",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 235,
+		"title": "Salazar Lourenço",
+		"link": "Salazar_Lourenço",
+		"difficulty": "Hard",
+		"campanha": ["Desconjuração"],
+		"type": "Characters"
+	},
+	{
+		"id": 236,
+		"title": "Tim Flom",
+		"link": "Tim_Flom",
+		"difficulty": "Medium",
+		"campanha": ["Desconjuração", "Calamidade"],
+		"type": "Characters"
+	},
+	{
+		"id": 237,
+		"title": "Evandro Eiland",
+		"link": "Evandro_Eiland",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 238,
+		"title": "Otávio Nemiera",
+		"link": "Otávio_Nemiera",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 239,
+		"title": "Adrian Vurtoren",
+		"link": "Adrian_Vurtoren",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 240,
+		"title": "Amora Aleno",
+		"link": "Amora_Aleno",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 241,
+		"title": "Barnabé Aleno",
+		"link": "Barnabé_Aleno",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 242,
+		"title": "Bartô Castello",
+		"link": "Bartô_Castello",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 243,
+		"title": "Celestino Vurtoren",
+		"link": "Celestino_Vurtoren",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 244,
+		"title": "Constantino Moretti",
+		"link": "Constantino_Moretti",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 245,
+		"title": "Davi Pomar",
+		"link": "Davi_Pomar",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 246,
+		"title": "Emério Cunha",
+		"link": "Emério_Cunha",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 247,
+		"title": "Francisco Oblito",
+		"link": "Francisco_Oblito",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 248,
+		"title": "Helena Gama",
+		"link": "Helena_Gama",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 249,
+		"title": "Ian Suna",
+		"link": "Ian_Suna",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 250,
+		"title": "Iara Suna",
+		"link": "Iara_Suna",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 251,
+		"title": "Jefferson Nemiera",
+		"link": "Jefferson_Nemiera",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 252,
+		"title": "Leila Lima",
+		"link": "Leila_Lima",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 253,
+		"title": "Lívia Lima",
+		"link": "Lívia_Lima",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 254,
+		"title": "Maíra Suna",
+		"link": "Maíra_Suna",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 255,
+		"title": "Návia Eiland",
+		"link": "Návia_Eiland",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 256,
+		"title": "Noralma Moretti",
+		"link": "Noralma_Moretti",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 257,
+		"title": "Pedro Nemiera",
+		"link": "Pedro_Nemiera",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 258,
+		"title": "Vagner Freitas",
+		"link": "Vagner_Freitas",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 259,
+		"title": "Valéria Nemiera",
+		"link": "Valéria_Nemiera",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 260,
+		"title": "Vitor Nemiera",
+		"link": "Vitor_Nemiera",
+		"difficulty": "Hard",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 261,
+		"title": "Angelina Florence",
+		"link": "Angelina_Florence",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 262,
+		"title": "Cavalcante Bueno",
+		"link": "Cavalcante_Bueno",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 263,
+		"title": "Montel Florence",
+		"link": "Montel_Florence",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	},
+	{
+		"id": 264,
+		"title": "",
+		"link": "",
+		"difficulty": "Medium",
+		"campanha": ["O Segredo na Ilha"],
+		"type": "Characters"
+	}
+]
