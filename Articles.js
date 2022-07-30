@@ -11,6 +11,8 @@ async function createArticle(configs) {
 	const article = await getArticle(configs)
 	article.originalText = await getArticleText(article.link)
 
+	article.links = getArticleLinks(article.originalText)
+
 	article.originalText = organizeText(article.originalText)
 	article.words = getWordsList(article.originalText)
 
@@ -35,24 +37,49 @@ async function createArticle(configs) {
 
 		await browser.close()
 
-		console.log(text.visualeditor.content.replace(/&gt;/gi, '>').replace(/&lt;/gi, '<'))
 		return text.visualeditor.content.replace(/&gt;/gi, '>').replace(/&lt;/gi, '<')
+	}
+
+	function getArticleLinks(text) {
+		let newText = text
+		const rules = [
+			[/<ref\s*([^<]*)<\/ref>/gim, ''], //Remover Referências
+			[/<ref\s*([^\/]*)\/>/gim, ''], //Remover Referências
+			[/<gallery\s*([^<]*)<\/gallery>/gim, ''], //Remover Galerias
+
+			[/\[\[Categoria:\s?([^\]]*)\]\]/gim, ''], //Remover Categorias
+			[/\[\[Arquivo:\s?([^|\]]*)\|?([^|\]]*)?\|?([^|\]]*)?\|?([^|\]]+)?\]\]/gim, ''] //Remover Arquivos
+		]
+		rules.forEach(([rule, template]) => {
+			newText = newText.replace(rule, template)
+		})
+
+		const regexLinks = /\[\[\s?([^|\]]*)\|?([^\]]*)?\]\]/gim
+		const links = []
+		newText.replace(regexLinks, function (_, match) {
+			const link = match.split(' ').join('_')
+			if (links.indexOf(link) == -1) links.push(link)
+		})
+
+		return links
 	}
 
 	function organizeText(text) {
 		const rules = [
-			[/<ref\s?([^<]*)<\/ref>/gim, ''], //Remover Referências
-			[/<gallery\s?([^<]*)<\/gallery>/gim, ''], //Remover Galerias
+			[/<ref\s*([^<]*)<\/ref>/gim, ''], //Remover Referências
+			[/<gallery\s*([^<]*)<\/gallery>/gim, ''], //Remover Galerias
 
-			[/\[\[Categoria:\s?([^\]]*)\]\]/gim, ''], //Remover Categorias
-			[/\[\[Arquivo:\s?([^|\]]*)\|?([^|\]]*)?\|?([^|\]]*)?\|?([^|\]]+)?\]\]/gim, ''], //Remover Arquivos
+			[/\[\[Categoria:\s*([^\]]*)\]\]/gim, ''], //Remover Categorias
+			[/\[\[Arquivo:\s*([^|\]]*)\|?([^|\]]*)?\|?([^|\]]*)?\|?([^|\]]+)?\]\]/gim, ''], //Remover Arquivos
 
-			[/\[\[\s?([^|\]]*\|)?([^\]]*)\]\]/gim, '$2'], //Links Redirecionamento Interno
+			[/\[\[\s*([^|\]]*\|)?([^\]]*)\]\]/gim, '$2'], //Links Redirecionamento Interno
 			[/\[[^\s\]]*\s?([^\]]*)\]/gim, '$1'], //Links Redirecionamento Externos
 
 			[/{{EpLink\s*\|?([^|}]*)?\|?([^|}]*)?\|?([^}]*)?}}/gim, '$2º episódio de NomeTemporada$1'], //EpLink
 			[/{{CampanhaLink\s*\|?([^}]*)?}}/gim, 'NomeTemporada$1'], //CampanhaLink
 			[/{{Tooltip\s*\|?([^|}]*)?\|?([^}]*)?}}/gim, '$1'], //Tooltip
+			[/{{f}}/gim, ''], //f
+			[/{{Carece de fontes}}/gim, ''], //f
 			[/{{nota\s*[^}]*}}/gim, ''], //nota
 			[/{{slink\s*[^}]*}}/gim, ''], //slink
 			[/{{citar\s*[^}]*}}/gim, ''], //citar
@@ -81,8 +108,6 @@ async function createArticle(configs) {
 			text = text.replace(rule, template)
 		})
 
-		// console.log(text)
-
 		let cont = 0
 		let temporadaCorrigida = []
 		for (let corrigirNomeTemporada of text.split('NomeTemporada')) {
@@ -102,8 +127,8 @@ async function createArticle(configs) {
 	function getWordsList() {
 		const wordList = {}
 
-		const regexNoGetTagsHML = />([^<]*)</g
-		const regexGetWordsOnly = /([^\s0123456789,.\-+:;()'"!@#$%^&*\/\\|<>[\]{}]*)/g
+		const regexNoGetTagsHML = />([^<]*)</gim
+		const regexGetWordsOnly = /([^\s0123456789,.\-+()'"“”!@#$%^&*\/\\|<>[\]{}ºª]*)/gim
 
 		const phases = article.originalText.matchAll(regexNoGetTagsHML)
 
